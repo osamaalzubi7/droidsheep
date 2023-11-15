@@ -10,7 +10,7 @@ DroidSheep demonstrates how easy an attack like this can be – Just start Droid
 
 Although DroidSheep is not made for doing such attacks, anyone can test and assure that it really works. For the ones who are interested in how this works, there is the source code public available (see download section).
 
-Source: http://droidsheep.de/?page_id=263
+Source: http://droidsheep.de
 
 DroidSheep is NOT INTENDED TO STEAL IDENTITIES.
 It shall show the weak security properties of big websites.
