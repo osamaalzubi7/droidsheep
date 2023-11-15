@@ -100,7 +100,7 @@ public class ArpspoofService extends IntentService {
 				wakeLock.release();
 			}
 			stopForeground(true);
-		}
+		}n
 	}
 
 	@Override
